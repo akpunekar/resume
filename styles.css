@@ -1,0 +1,43 @@
+body {
+  margin: auto;
+  font-family:  Georgia, serif;
+}
+
+ .intro {
+   padding-left: 5px;
+   background-color: #FCD8D4;
+}
+
+.career {
+  padding: 10px 15px;
+  background-color: #FDF6F0;
+}
+
+.skills {
+  padding: 10px 15px;
+  background-color: #F8E2CF;
+}
+
+.about {
+  padding: 10px 15px 30px;
+  background-color: #F5C6AA;
+}
+
+.edutable   {
+  margin: 10px 10px;
+  width:70%;
+}
+
+.edutable td,
+.edutable th {
+  border-bottom: 1px solid #F5C6AA;
+}
+
+.skilltable {
+  margin: 10px 10px;
+}
+
+h3 {
+  margin: auto;
+  padding-top: 5px;
+}
